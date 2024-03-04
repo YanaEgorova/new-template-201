@@ -121,7 +121,7 @@
     margin: 0 auto;
 }
 .policy__block--top {
-    margin-bottom: 14rem;
+    /* margin-bottom: 14rem; */
 }
 .policy .text {
     margin-bottom: 3rem;
